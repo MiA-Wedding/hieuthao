@@ -50,13 +50,13 @@ const WEDDING_CONFIG = {
     groomSide: {
       avatar: "assets/g1.jpg",
       name: " Minh Hiếu",
-      parents: "Bố: Lương Đức Thắng<br>Mẹ: Vũ Tuyết Mai",
+      parents: "Ông: Lương Đức Thắng<br>Bà: Vũ Tuyết Mai",
       address: "Địa chỉ:Số 3 ngõ Yên Ninh, Ba Đình, Hà Nội"
     },
     brideSide: {
       avatar: "assets/g2.jpg",
       name: "Hương Thảo ",
-      parents: "-<br>Mẹ: Lê Thị Thu Hương",
+      parents: "-<br> Bà: Lê Thị Thu Hương",
       address: "Địa chỉ:CH 205 - 65 Hàng Than, Ba Đình Hà Nội "
     }
   },
